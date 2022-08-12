@@ -28,3 +28,5 @@ self.addEventListener('fetch', event =>
     )
 );
 ```
+# Cradits:
+-

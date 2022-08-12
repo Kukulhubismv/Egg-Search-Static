@@ -29,4 +29,4 @@ self.addEventListener('fetch', event =>
 );
 ```
 # Cradits:
--
+- https://github.com/titaniumnetwork-dev/Ultraviolet-Static
